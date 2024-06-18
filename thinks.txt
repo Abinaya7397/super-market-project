@@ -1,0 +1,7 @@
+milk,bread,fruit,baby food,breakfast cereals,potato chip,pasta and rais
+water,dog food,meat,dairy,condimentsdrinks,candy,basmathi rice,brown rice,white rice  \nLENTILS =dreen paruppu,pasi paruppu,tuvaram paruppu \nOIL =coconut oil,almond oil,ground nut oil  \nMASALA =chiken masala,mutton masala,fish masala  \n SHOP =cinthol,lux,lifebuoy  \nBISCUITS =oreo,sunfeast,marie gold \nCAKES =chocolate cake,black forest,butter cake \nSHAMPOO =allclear,dove,karthika")
+fruits,apple,orenge,grapes,
+vegetables,onion,potato,ginger,pumkin,leek
+nuts,almonds,butternuts,pili nuts,
+juices,apple juice,orenge juice,carret juices,lemon juices
+masala,chiken masala,mutton masala,fish masala

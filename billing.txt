@@ -1,0 +1,11 @@
+total price of juices is4
+0total price of biscuits is 90
+total price of biscuits is 150
+total price of oil is 600
+total price of shampoo is 10
+total price of soap is 90
+total price of fruits is 90
+total price of vegetables is 60
+total price of nut is 270
+total price of masala is180
+total price of juices is40
